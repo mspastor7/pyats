@@ -1,0 +1,30 @@
+devices:
+  iosv-1:
+    connections:
+      cli:
+        ip: 172.16.30.76
+        protocol: telnet
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    platform: IOSv
+    type: IOSv
+  iosv-2:
+    connections:
+      cli:
+        ip: 172.16.30.77
+        protocol: telnet
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: enable
+    os: ios
+    platform: IOSv
+    type: IOSv
+
