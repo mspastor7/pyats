@@ -1,30 +1,46 @@
 devices:
-  iosv-1:
+  F241.03.16-2911:
     connections:
       cli:
-        ip: 172.16.30.76
+        ip: 10.82.139.57
+#        port: 2018
         protocol: telnet
     credentials:
       default:
-        password: cisco
-        username: cisco
+        password: cisco!123
+        username: admin
       enable:
-        password: cisco
+        password: cisco!123
     os: ios
-    platform: IOSv
-    type: IOSv
-  iosv-2:
-    connections:
-      cli:
-        ip: 172.16.30.77
-        protocol: telnet
-    credentials:
-      default:
-        password: cisco
-        username: cisco
-      enable:
-        password: enable
-    os: ios
-    platform: IOSv
-    type: IOSv
+#    platform: IOSv
+    type: ios
 
+#    C6807-1:
+#      connections:
+#        cli:
+#          ip: F241-03-15-COMM
+#          port: 2018
+#          protocol: telnet
+#      credentials:
+#        default:
+#          password: cisco!123
+#          username: admin
+#        enable:
+#          password: cisco!123
+#      os: ios
+#      #    platform: IOSv
+#      type: ios
+#  F241.03.16-ASR1001-X:
+#    connections:
+#      cli:
+#        ip: 10.82.139.59
+#        protocol: ssh
+#    credentials:
+#      default:
+#        password: cisco!123
+#        username: admin
+#      enable:
+#        password: enable
+#    os: ios
+#    platform: IOSv
+#    type: IOSv
