@@ -1,0 +1,664 @@
+devices:
+  CR-AL-ATM_142-Aeropuerto_JuanSantamaria-WR1811M:
+    connections:
+      cli:
+        ip: 10.120.20.142
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-CA-CA_043-MENDIOLACARTAGO-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.20.43
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-HE-ATM-468-Align-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.0.171
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-HE-AT_015-ZONAFRANCAMETROPOLITANA-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.0.230
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-HE-AT_043-WALMARTHEREDIA-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.20.2
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-HE-AT_211-ZFULTRAPARK-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.0.231
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-HE-CA_041-RTVHEREDIA-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.41
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-LI-ATM-488-Megasuper_Batan-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.0.180
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-LI-ATM-F5-Dole-ValleEstrella-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.218
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-PU-ATM-520-Marriot_Suenos-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.236
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-184-PILOTO-Gallinita-Feliz-WR1941M:
+    connections:
+      cli:
+        ip: 10.120.0.184
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM-005-CP-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.5
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM-348-locatel-Pinares-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.23
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM-371-Avianca-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.244
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM-384-Extralum-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.239
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM_016-CA-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.16
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ATM_096-MCPZ-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.4
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-AT_00S-ATMSEDIFICIOOMNI-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.0.220
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-AT_082-FINANCIERABRUNCABELEN-WR1841M:
+    connections:
+      cli:
+        ip: 10.120.0.240
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-AT_118-CINEPOLIS-WR1941M:
+    connections:
+      cli:
+        ip: 10.120.0.251
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-AT_180-CIUDADTOYOTA-WR1921M:
+    connections:
+      cli:
+        ip: 10.120.20.32
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-AT_45-CIUDADCOLON-WR1811M:
+    connections:
+      cli:
+        ip: 10.120.20.116
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-CA_067-CAJAMATRA-WR1941M:
+    connections:
+      cli:
+        ip: 10.120.0.67
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-CORE1_001-CB_B10-CS9500H:
+    connections:
+      cli:
+        ip: 10.124.73.1
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-CORE2_002-CB_B10-CS9500H:
+    connections:
+      cli:
+        ip: 10.124.73.2
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-DNA-001-CP-WR9500H:
+    connections:
+      cli:
+        ip: 10.127.192.1
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-DNA-002-CA-WR9500H:
+    connections:
+      cli:
+        ip: 10.127.192.2
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E2_011-PR-AS9300M:
+    connections:
+      cli:
+        ip: 10.127.192.11
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E2_03-CB_B10-AS9410M:
+    connections:
+      cli:
+        ip: 10.124.73.3
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E2_06-CB_B10-AS9300M:
+    connections:
+      cli:
+        ip: 10.124.73.6
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E2_07-CB_B10-SEG-AS9200M:
+    connections:
+      cli:
+        ip: 10.124.73.7
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E3_001-AG-WR2901M:
+    connections:
+      cli:
+        ip: 10.120.0.88
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E3_04-CB_B10-AS9410M:
+    connections:
+      cli:
+        ip: 10.124.73.4
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E3_08-CB_B10-SEG-AS9200M:
+    connections:
+      cli:
+        ip: 10.124.73.8
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E4_05-CB_B10-AS9410M:
+    connections:
+      cli:
+        ip: 10.124.73.5
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E4_09-CB_B10-SEG-AS9200M:
+    connections:
+      cli:
+        ip: 10.124.73.9
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E7_040-MallSanPedro-DS3850M:
+    connections:
+      cli:
+        ip: 10.120.0.40
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-E8_001-MallSanPedro-AS3650M:
+    connections:
+      cli:
+        ip: 10.120.23.1
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-ICE-CA-WR3750EH:
+    connections:
+      cli:
+        ip: 10.125.12.226
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-INT-004-CP-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.4
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-INT_017-CA-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.17
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MDF_004-CB_B2-AS4507M:
+    connections:
+      cli:
+        ip: 10.124.2.4
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MDF_005-CB_B2-AS4507M:
+    connections:
+      cli:
+        ip: 10.124.2.5
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MDF_006-CB_B2-AS4507M:
+    connections:
+      cli:
+        ip: 10.124.2.6
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MDF_006-CB_B4-AS3650M:
+    connections:
+      cli:
+        ip: 10.124.4.6
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MDF_007-CB_B4-AS3650M:
+    connections:
+      cli:
+        ip: 10.124.4.7
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-MNG-008-CP-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.8
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-SUC-009-CP-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.9
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-SUC_018-CA-WR3750H:
+    connections:
+      cli:
+        ip: 10.120.0.18
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-SUC_Metropolitano-045_WR3850H:
+    connections:
+      cli:
+        ip: 10.125.12.184
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
+  CR-SJ-VoIP-200-UIP-CP-WR4451H:
+    connections:
+      cli:
+        ip: 10.122.51.200
+        protocol: ssh
+    credentials:
+      default:
+        password: Credomatic.1010
+        username: CSP-Collector
+      enable:
+        password: Credomatic.1010
+    os: iosxe
+    type: iosxe
